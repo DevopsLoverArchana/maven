@@ -1,0 +1,8 @@
+<!-- build.xml -->
+<project name="MyAntProject" default="compile" basedir=".">
+    <target name="compile">
+        <echo message="Building the project with Ant!" />
+        <!-- Add your compilation or build tasks here -->
+        <!-- For example: <javac srcdir="src" destdir="build" /> -->
+    </target>
+</project>
